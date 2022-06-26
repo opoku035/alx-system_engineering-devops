@@ -1,3 +1,2 @@
 #!/bin/bash
 ls -la -u -G
-ls -lna
